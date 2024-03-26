@@ -19,6 +19,7 @@
   "files": [
     "dist/*",
     "index.ts",
+    "mouse-menu.vue",
     "types.ts"
   ],
   "bugs": {
