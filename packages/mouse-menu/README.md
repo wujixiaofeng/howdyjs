@@ -99,7 +99,7 @@
 <script>
 import { MouseMenuDirective } from '@howdyjs/mouse-menu';
 export default {
-  directive: {
+  directives: {
     MouseMenu: MouseMenuDirective
   },
   setup() {
